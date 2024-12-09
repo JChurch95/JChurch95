@@ -27,12 +27,12 @@ Hey there! My name is Jordan Church and I'm a full-stack developer with a strong
 Currently, I'm working on various full-stack projects, constantly honing my skills and exploring new areas of development. I'm always open to discussing new opportunities, whether it's an exciting project, a challenging role, or a chance to collaborate on innovative solutions.
 
 
-<h3>Let's Connect!:</h3>
+<h2>Let's Connect!:</h2>
 
 💬 Feel free to holler at me via email at jordanchurch95@gmail.com. Let's connect and build something amazing together!
 
 
-<h3>🌐 Socials:</h3>
+<h2>🌐 Socials:</h2>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://jordanchurch.netlify.app/)
 
