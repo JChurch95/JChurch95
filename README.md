@@ -19,11 +19,14 @@
 
 
 👋🏼 About Me:
+
 Hey there! My name is Jordan Church and I'm a full-stack developer with a strong foundation in both front-end and back-end technologies. I enjoy building efficient, impactful, and user-friendly applications that solve real-world problems. My expertise lies in modern web technologies like React, Python, and PostgreSQL, and I'm always eager to learn new tools and frameworks.
 
 Currently, I'm working on various full-stack projects, constantly honing my skills and exploring new areas of development. I'm always open to discussing new opportunities, whether it's an exciting project, a challenging role, or a chance to collaborate on innovative solutions.
 
+
 💬 Feel free to holler at me via email at jordanchurch95@gmail.com. Let's connect and build something amazing together!
+
 
 🌐 Socials:
 
