@@ -26,7 +26,9 @@ Currently, I'm working on various full-stack projects, constantly honing my skil
 💬 Feel free to holler at me via email at jordanchurch95@gmail.com. Let's connect and build something amazing together!
 
 🌐 Socials:
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://jordanchurch.netlify.app/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-a-church/)
 
 
