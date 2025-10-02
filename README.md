@@ -24,7 +24,7 @@
 
 Hey there! My name is Jordan Church and I'm a full-stack developer with a foundation in both front-end and back-end technologies. I like building cool things!
 
-Currently, I'm taking a break from projects to focus on my job, but I'm always open to a chance to collaborate on something cool!
+Currently, I'm preparing to be a new dad! Other than that, I'm always open to a chance to collaborate on something cool!
 
 
 <h2>Let's Connect!:</h2>
